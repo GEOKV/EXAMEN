@@ -1,4 +1,4 @@
-
+// NUEVO COMENTARIO
 #include "Propietario.cpp"
 #include <iostream>
 using namespace std;
